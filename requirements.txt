@@ -2,117 +2,65 @@ alembic==1.15.2
 antlr4-python3-runtime==4.13.2
 anyio==4.9.0
 argon2-cffi==23.1.0
-argon2-cffi-bindings @ file:///C:/b/abs_f11axiliot/croot/argon2-cffi-bindings_1736182463870/work
 arrow==1.3.0
-asttokens @ file:///C:/b/abs_9662ywy9fp/croot/asttokens_1743630464377/work
 async-lru==2.0.5
 attrs==25.3.0
 babel==2.17.0
 beautifulsoup4==4.13.3
-bleach @ file:///C:/b/abs_925i9psm3u/croot/bleach_1732292896852/work
-Brotli @ file:///C:/b/abs_c415aux9ra/croot/brotli-split_1736182803933/work
-certifi @ file:///C:/b/abs_8a944p1_gn/croot/certifi_1738623753421/work/certifi
-cffi @ file:///C:/b/abs_29_b57if3f/croot/cffi_1736184144340/work
 charset-normalizer==3.4.1
 cma==3.4.0
-colorama @ file:///C:/b/abs_a9ozq0l032/croot/colorama_1672387194846/work
 colorlog==6.9.0
 comm==0.2.2
-contourpy @ file:///C:/b/abs_f2u2o_8s9g/croot/contourpy_1732540071787/work
-cycler @ file:///tmp/build/80754af9/cycler_1637851556182/work
 debugpy==1.8.13
-decorator @ file:///C:/miniconda3/conda-bld/decorator_1757341256088/work
-defusedxml @ file:///tmp/build/80754af9/defusedxml_1615228127516/work
 dill==0.3.9
 exceptiongroup==1.2.2
 executing==2.2.0
 fastjsonschema==2.21.1
-fonttools @ file:///C:/b/abs_4crkswws2h/croot/fonttools_1737040078745/work
 fqdn==1.5.1
 greenlet==3.1.1
-h11 @ file:///C:/b/abs_1czwoyexjf/croot/h11_1706652332846/work
 httpcore==1.0.7
 httpx==0.28.1
 idna==3.10
-ipykernel @ file:///C:/b/abs_6c9ggygp01/croot/ipykernel_1737660720620/work
 ipython==8.35.0
 ipywidgets==8.1.5
 isoduration==20.11.0
-jedi @ file:///C:/b/abs_3a2kbnlclc/croot/jedi_1733987412687/work
-Jinja2 @ file:///C:/b/abs_920kup4e6u/croot/jinja2_1741711580669/work
 joblib==1.4.2
 json5==0.12.0
 jsonpointer==3.0.0
-jsonschema @ file:///C:/b/abs_394_t6__xq/croot/jsonschema_1728486718320/work
 jsonschema-specifications==2024.10.1
 jupyter==1.1.1
 jupyter-console==6.6.3
-jupyter-events @ file:///C:/b/abs_9cm3qlticu/croot/jupyter_events_1741184612840/work
 jupyter-lsp==2.2.5
-jupyter_client @ file:///C:/b/abs_149bw133if/croot/jupyter_client_1737570986926/work
-jupyter_core @ file:///C:/b/abs_beftpbuevw/croot/jupyter_core_1718818307097/work
-jupyter_server @ file:///C:/b/abs_dd442s1uya/croot/jupyter_server_1741206396661/work
 jupyter_server_terminals==0.5.3
 jupyterlab==4.4.0
-jupyterlab_pygments @ file:///C:/b/abs_d5alfet8m6/croot/jupyterlab_pygments_1741124274578/work
-jupyterlab_server @ file:///C:/b/abs_fdi5r_tpjc/croot/jupyterlab_server_1725865372811/work
 jupyterlab_widgets==3.0.13
-kiwisolver @ file:///C:/b/abs_faf90xet7a/croot/kiwisolver_1737040915779/work
 Mako==1.3.9
-MarkupSafe @ file:///C:/b/abs_a0ma7ge0jc/croot/markupsafe_1738584052792/work
 matplotlib==3.10.0
-matplotlib-inline @ file:///C:/miniconda3/conda-bld/matplotlib-inline_1758520119436/work
 mistune==3.1.3
 mkl-service==2.4.0
-mkl_fft @ file:///C:/Users/dev-admin/mkl/mkl_fft_1730823082242/work
-mkl_random @ file:///C:/Users/dev-admin/mkl/mkl_random_1730822522280/work
 mpmath==1.3.0
-nbclient @ file:///C:/b/abs_a09c4t3h8x/croot/nbclient_1741124030330/work
-nbconvert @ file:///C:/b/abs_c27_60dzt8/croot/nbconvert-meta_1741191385337/work
-nbformat @ file:///C:/b/abs_c2jkw46etm/croot/nbformat_1728050303821/work
-nest-asyncio @ file:///C:/b/abs_65d6lblmoi/croot/nest-asyncio_1708532721305/work
 networkx==3.4.2
 notebook==7.4.0
-notebook_shim @ file:///C:/b/abs_9ctyfgpncn/croot/notebook-shim_1741707829491/work
 numpy==2.2.4
 openqasm3==1.0.1
 optuna==4.2.1
 overrides==7.7.0
-packaging @ file:///C:/b/abs_3by6s2fa66/croot/packaging_1734472138782/work
-pandocfilters @ file:///C:/miniconda3/conda-bld/pandocfilters_1756977625119/work
-parso @ file:///C:/b/abs_834b4mj92b/croot/parso_1733963322289/work
 pbr==6.1.1
-pillow @ file:///C:/b/abs_b50vowcrzo/croot/pillow_1738010273782/work
-platformdirs @ file:///C:/b/abs_ddh15014or/croot/platformdirs_1744273060660/work
 ply==3.11
-prometheus_client @ file:///C:/b/abs_8b175q_ub8/croot/prometheus_client_1744271638821/work
 prompt_toolkit==3.0.50
-psutil @ file:///C:/miniconda3/conda-bld/psutil_1757104557256/work
 pure_eval==0.2.3
 pycparser==2.22
-Pygments @ file:///C:/b/abs_e4bg5vh5j_/croot/pygments_1744667628203/work
-pyparsing @ file:///C:/b/abs_40z8gyj9wi/croot/pyparsing_1731445739241/work
 PyQt5==5.15.10
-PyQt5_sip @ file:///C:/b/abs_d1i1jr9fgt/croot/pyqt-split_1736540551157/work/pyqt_sip
-PySocks @ file:///C:/ci_310/pysocks_1642089375450/work
-python-dateutil @ file:///C:/b/abs_3au_koqnbs/croot/python-dateutil_1716495777160/work
 python-json-logger==3.3.0
 pywin32==310
-pywinpty @ file:///C:/b/abs_883wh7sts8/croot/pywinpty_1741871674963/work
-PyYAML @ file:///C:/b/abs_14xkfs39bx/croot/pyyaml_1728657968772/work
 pyzmq==26.4.0
 qibo==0.2.17
 qiskit==2.0.0
 referencing==0.36.2
-requests @ file:///C:/b/abs_c3508vg8ez/croot/requests_1731000584867/work
-rfc3339-validator @ file:///C:/b/abs_ddfmseb_vm/croot/rfc3339-validator_1683077054906/work
-rfc3986-validator @ file:///C:/b/abs_6e9azihr8o/croot/rfc3986-validator_1683059049737/work
 rpds-py==0.24.0
 rustworkx==0.16.0
 scipy==1.15.2
 Send2Trash==1.8.3
-sip @ file:///C:/b/abs_b6twfwtueg/croot/sip_1736544693649/work
-six @ file:///C:/b/abs_149wuyuo1o/croot/six_1744271521515/work
 sniffio==1.3.1
 soupsieve==2.6
 SQLAlchemy==2.0.40
@@ -121,20 +69,10 @@ stevedore==5.4.1
 symengine==0.13.0
 sympy==1.13.3
 tabulate==0.9.0
-terminado @ file:///C:/miniconda3/conda-bld/terminado_1757934960051/work
-tinycss2 @ file:///C:/b/abs_df38owi5ma/croot/tinycss2_1738337725183/work
-tomli @ file:///C:/Windows/TEMP/abs_ac109f85-a7b3-4b4d-bcfd-52622eceddf0hy332ojo/croots/recipe/tomli_1657175513137/work
-tornado @ file:///C:/b/abs_7cyu943ybx/croot/tornado_1733960510898/work
 tqdm==4.67.1
-traitlets @ file:///C:/b/abs_bfsnoxl4pq/croot/traitlets_1718227069245/work
 types-python-dateutil==2.9.0.20241206
 typing_extensions==4.13.1
-unicodedata2 @ file:///C:/b/abs_dfnftvxi4k/croot/unicodedata2_1736543771112/work
 uri-template==1.3.0
-urllib3 @ file:///C:/b/abs_7bst06lizn/croot/urllib3_1737133657081/work
-wcwidth @ file:///C:/b/abs_0c8p4c33bp/croot/wcwidth_1750352902378/work
 webcolors==24.11.1
 webencodings==0.5.1
-websocket-client @ file:///C:/b/abs_5dmnxxoci9/croot/websocket-client_1715878351319/work
 widgetsnbextension==4.0.13
-win-inet-pton @ file:///C:/ci_310/win_inet_pton_1642658466512/work
